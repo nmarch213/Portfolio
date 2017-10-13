@@ -1,0 +1,82 @@
+a {
+  text-decoration-color: white;
+}
+
+h1 {
+  text-align: center;
+  color: #fff !important;
+  margin-top: 10%;
+  font: 3em Lobster;
+  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1),
+    0px 18px 23px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  text-align: center;
+  color: #fff !important;
+  font: 2.5em Lobster;
+  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1),
+    0px 18px 23px rgba(0, 0, 0, 0.1);
+}
+
+h3 {
+  text-align: center;
+  font: 2em Lobster;
+  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1),
+    0px 18px 23px rgba(0, 0, 0, 0.1);
+}
+
+.landing-container {
+  height: 200px;
+}
+
+.devicon {
+  font-size: 3em;
+  padding: 0 0.1em;
+}
+
+.typist-landing {
+  color: #fff !important;
+}
+
+body {
+  background: linear-gradient(270deg, #166543, #2c6c98);
+  background-size: 400% 400%;
+
+  -webkit-animation: AnimationName 21s ease infinite;
+  -moz-animation: AnimationName 21s ease infinite;
+  animation: AnimationName 21s ease infinite;
+}
+@-webkit-keyframes AnimationName {
+  0% {
+    background-position: 60% 0%;
+  }
+  50% {
+    background-position: 41% 100%;
+  }
+  100% {
+    background-position: 60% 0%;
+  }
+}
+@-moz-keyframes AnimationName {
+  0% {
+    background-position: 60% 0%;
+  }
+  50% {
+    background-position: 41% 100%;
+  }
+  100% {
+    background-position: 60% 0%;
+  }
+}
+@keyframes AnimationName {
+  0% {
+    background-position: 60% 0%;
+  }
+  50% {
+    background-position: 41% 100%;
+  }
+  100% {
+    background-position: 60% 0%;
+  }
+}
