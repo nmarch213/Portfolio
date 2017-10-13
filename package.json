@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/nmarch213/nmarch213.github.io.git"
   },
-  "homepage": "https://nmarch213.github.io/my-app",
+  "homepage": "https://nmarch213.github.io/Portfolio",
   "dependencies": {
     "bootstrap": "^4.0.0-beta",
     "devicon": "^2.0.0",
