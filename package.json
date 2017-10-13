@@ -2,6 +2,10 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nmarch213/nmarch213.github.io.git"
+  },
   "homepage": "https://nmarch213.github.io/my-app",
   "dependencies": {
     "bootstrap": "^4.0.0-beta",
