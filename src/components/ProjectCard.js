@@ -34,7 +34,6 @@ class ProjectCard extends Component {
 
   render() {
     const { project } = this.props;
-    console.log(this.props);
     return (
       <Card>
         <CardBody>

@@ -10,7 +10,9 @@ class Landing extends Component {
         <Row>
           <Col>
             <Container className="landing-container">
-              <h1>Nicholas March</h1>
+              <h1 id="lastName">
+                <strong>Nicholas</strong> March
+              </h1>
               <RestartingTypist className="typist-landing text-center">
                 <span>Web Developer</span>
                 <br />

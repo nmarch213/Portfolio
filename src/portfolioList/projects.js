@@ -17,7 +17,7 @@ export default [
   },
   {
     name: 'MobaDraft',
-    tech: ["React.js", "Node.js", "Javascript", "Express.js", "MongoDB", "Bootstrap 4"],
+    tech: ["React.js", "Redux", "Node.js", "Javascript", "Express.js", "MongoDB", "Bootstrap 4"],
     github: 'https://github.com/nmarch213/MobaDraft',
     description: 'A web application dedicated to the drafting element of Moba PC games such Heroes of The Storm, Dota 2, and League of Legends.This Will be used improve the drafting element of players, amateur teams,and professional players.'
   },
